@@ -4,7 +4,7 @@
 */
 
 :root {
- --bg-image: url('../images/cover-image-dark.png');
+ --bg-image: url('./images/cover-image-dark.png');
  --accent-color:  rgba(255, 0, 112, 1);
  --title-text-color-h: rgba(255, 0, 112, 1);
  --text-color: rgba(241, 178, 206, 1);

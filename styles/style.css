@@ -201,7 +201,6 @@ content: "";
 
 .footer {
   width: auto;
-  height: 100%;
   min-height: 668px;
   margin-left: 0px;
   margin-right: 0px;
@@ -225,6 +224,7 @@ content: "";
   min-height: 1024px;
   margin-left: 0px;
   margin-right: 20px;
+  margin-bottom: 60px;
 }
 
 .header__theme-title {
@@ -255,10 +255,6 @@ content: "";
 .decorated-zone-text {
   right: 50px;
   top: 20px;
-}
-
-.header {
-  margin-bottom: 60px;
 }
 
 .section {
@@ -377,5 +373,4 @@ content: "";
   align-self: center;
   margin-bottom: 0px;
 }
-
 }
