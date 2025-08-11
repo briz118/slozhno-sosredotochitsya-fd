@@ -6,8 +6,10 @@
 
 :root.theme-light {
   --bg-image: url('../images/cover-image-light.png');
+  --bg-color: rgba(255, 241, 247, 1);
   --accent-color: rgba(255, 141, 203, 1);
   --title-text-color-h: rgba(53, 52, 48, 1);
+  --title-outline: rgba(53, 52, 48, 0.4);
   --text-color: rgba(53, 52, 48, 1);
   --title-text-color: rgba(53, 52, 48, 1);
   --title-color: rgba(255, 194, 230, 1);
@@ -20,8 +22,10 @@
 @media (prefers-color-scheme: light) {
   :root {
   --bg-image: url('../images/cover-image-light.png');
+  --bg-color: rgba(255, 241, 247, 1);
   --accent-color: rgba(255, 141, 203, 1);
   --title-text-color-h: rgba(53, 52, 48, 1);
+  --title-outline: rgba(53, 52, 48, 0.4);
   --text-color: rgba(53, 52, 48, 1);
   --title-text-color: rgba(53, 52, 48, 1);
   --title-color: rgba(255, 194, 230, 1);
