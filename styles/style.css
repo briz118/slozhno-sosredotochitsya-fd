@@ -42,8 +42,9 @@
   width: 25px;
   height: 25px;
   right: 35px;
-  top: 12px;
+  top: 10px;
   color: var(--accent-color);
+  font-size: 18px;
   text-transform: uppercase;
 }
 
@@ -51,7 +52,7 @@
   content: "";
   position: absolute;
   top: 7px;
-  right: -20px;
+  right: -25px;
   width: 9px;
   height: 9px;
   background-color: var(--accent-color);
@@ -260,7 +261,7 @@
 }
 
 .decorated-zone-text {
-  right: 50px;
+  right: 55px;
   top: 20px;
 }
 
